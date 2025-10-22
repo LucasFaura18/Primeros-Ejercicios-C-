@@ -37,6 +37,7 @@ Cada ejercicio está numerado y se ejecuta uno tras otro en la consola, mostrand
 
 ### 🔸 Ejercicio 9 – Posición del número menor en un array
 - Devuelve la posición (índice) del número más pequeño dentro de un array.
+- Este es el array: { 12, 5, 8, 3, 19, 7 }
 
 ### 🔸 Ejercicio 10 – Simulación de un banco 🏦
 - Implementa dos clases:
